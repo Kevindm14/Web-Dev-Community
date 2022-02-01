@@ -1,2 +1,2 @@
 # Web-Dev-Community
-The Web Development Community wonderland 🎉�
+The Web Development Community wonderland 🎉
