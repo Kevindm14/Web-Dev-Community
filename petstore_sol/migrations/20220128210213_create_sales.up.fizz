@@ -1,0 +1,4 @@
+create_table("sales") {
+    t.Column("client_id", "integer",{})
+    t.Column("pet_id", "integer",{})
+}

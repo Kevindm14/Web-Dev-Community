@@ -1,0 +1,8 @@
+create_table("pets") {
+    t.Column("id", "integer", {primary: true})
+    t.Column("animal", "string", {})
+    t.Column("breed", "string", {})
+    t.Column("price", "decimal", {})
+    t.Column("age", "integer", {})
+    t.Timestamps()
+}
